@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Expedientes Electrónicos",
+  "description": "Aplicación móvil y guía paso a paso para carátula, documentos GEDO y notificación de expedientes electrónicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+GUÍA DE EXPEDIENTES ELECTRÓNICOS
+
+Para abrir: descomprima el archivo ZIP y abra index.html con un navegador actualizado.
+
+La guía funciona localmente y no requiere instalación ni conexión a internet. El avance marcado se guarda en el almacenamiento local de ese navegador. Mantenga juntas la carpeta images y el archivo index.html.
+
+Las capturas provienen del Word proporcionado. La guía organiza el contenido en siete etapas. Revise siempre el procedimiento vigente de su organismo antes de procesar o notificar documentación.
